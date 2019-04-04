@@ -143,6 +143,9 @@ class Guild extends Base {
      * * VERIFIED
      * * VIP_REGIONS
      * * VANITY_URL
+     * * LURKABLE
+     * * COMMERCE
+     * * NEWS
      * @typedef {string} Features
      */
 
